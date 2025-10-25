@@ -5,14 +5,6 @@
 
 // "Bedroom in Arles" by Vincent Van Gogh! Move around the room using the mouse and zooming in or out.
 
-//intent: I wanted to recreate a known scene in 3D so I chose the painting "Bedroom in Arles" by Vincent Van Gogh. To create this scene I made a room with 3D elements that the user can move around to view. I also used texture() by loading in the painting to the back wall.I was hoping to make it look a bit more realistic with loading 3D images in or using shaders but was unable to figure out incorporating these aspects.
-
-//success: I think that the proportions and spacing worked out well to recreate the room. I struggled to make everything line up on the same plane, so I was glad it worked out in the end. I also learned a lot abuot functioning in 3D and considering all planes and WEBGL in general.
-
-//failures: While I did accomplish a lot in the week, I wanted to incorporate more high level aspects but they were difficult to incorporate so I will need to learn shaders and loading in 3D aspects in a separate project. I was also hoping to make it look more realistic but was unsure how to do this.
-
-//references: I coded all of this project on my own first and then asked ChatGPT to look for spots where the code could be more DRY and efficient and I then incorporated those aspects. I also used the p5js documentation.
-
 // global variable (loaded image)
 let img;
 
